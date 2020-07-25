@@ -681,8 +681,8 @@
 "TWEAK_LANGUAGE_LABEL" = "Dil";
 "TWEAK_LANGUAGE_AUTO_OPTION" = "Otomatik";
 
-"UPDATE_WITH_CONTROL_CENTER_TOGGLES_LABEL" = "Update Settings from CC Toggle";
-"UPDATE_WITH_CONTROL_CENTER_TOGGLES_DESC" = "By default, Control Center toggle reads and updates the settings of main WhatsApp app, enable this option if you want to update this app's settings with the Control Center toggle.";
+"UPDATE_WITH_CONTROL_CENTER_TOGGLES_LABEL" = "Kontrol Merkezinden Ayarları Güncelle";
+"UPDATE_WITH_CONTROL_CENTER_TOGGLES_DESC" = "Kontrol Merkezi WhatsApp uygulamasının ayarlarını okur ve günceller, bu uygulamanın ayarlarını Kontrol Merkezi ile güncellemek istiyorsanız bu seçeneği etkinleştirin.";
 
 
 /* Developer Section */
